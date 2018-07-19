@@ -39,7 +39,7 @@ When we’re trapped inside this triangle of thinking, all our management effort
 * We try to control the costs of our resources, but somehow our total cost to deliver the same amount of actual business value keeps going up.
 * We set clear timescales for our deliverables but never get what we hoped for in a reasonable amount of time. Then, while we’re stuck waiting for things to get done, we start more work in parallel.
 
-It’s painful isn’t it? These methods have long proven themselves to be ineffective in situations  where we face a lot of uncertainty, yet we keep trying to use them.
+It’s painful, isn’t it? These methods have long proven themselves to be ineffective in situations where we face a lot of uncertainty, yet we keep trying to use them.
 
 At EngineerBetter we often discover that our customers have a management approach that creates friction, so we started using a number of techniques to help them get to a better place.
 
