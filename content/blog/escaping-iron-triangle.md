@@ -9,7 +9,7 @@ headingBold: blog
 Description: Get the very latest updates about recent projects, team updates, thoughts and industry news from our team of EngineerBetter experts.
 ---
 
-We’ve recently been working with customers to help their IT leadership teams break out of the iron triangle of traditional project management thinking. Our aim has been to enable them to **understand their organisation as a system**, give them visibility of things that really matter and provide them with a new set of levers to manage things and measure progress.
+Through use of [Value Stream Mapping](https://en.wikipedia.org/wiki/Value_stream_mapping), [Impact Mapping](https://www.impactmapping.org/) and Cost Of Delay we've helped IT leadership teams to break out of the iron triangle of traditional project management thinking, and instead **understand their organisation as a system**, get visibility of things that really matter and use a new set of levers to manage things and measure progress.
 
 <!--more-->
 
