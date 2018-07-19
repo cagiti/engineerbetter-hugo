@@ -11,7 +11,9 @@ Description: Get the very latest updates about recent projects, team updates, th
 
 Through use of [Value Stream Mapping](https://en.wikipedia.org/wiki/Value_stream_mapping), [Impact Mapping](https://www.impactmapping.org/) and Cost Of Delay we've helped IT leadership teams to break out of the iron triangle of traditional project management thinking, and instead **understand their organisation as a system**, get visibility of things that really matter and use a new set of levers to manage things and measure progress.
 
-<!--more-->
+<section class="boxout">
+<p>In one of our enterprise customers <strong>40-50% of their capacity was being used for rework</strong>. Half of their payroll was being spent on creating defects and fixing them.</p>
+</section>
 
 ## A familiar story
 
