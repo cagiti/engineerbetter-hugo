@@ -45,7 +45,7 @@ At EngineerBetter we often discover that our customers have a management approac
 
 ## Flow efficiency, not resource efficiency
 
-When IT leadership teams have been tasked with reducing costs, helping them acquire knowledge of the organisation as a *system* can provide some much needed enlightenment. To make this visible we can use the lean-management technique of [Value Stream Mapping](https://en.wikipedia.org/wiki/Value_stream_mapping) to map the way value actually gets delivered and understand the impediments to flow.
+When IT leadership teams have been tasked with reducing costs, helping them acquire knowledge of the organisation as a *system* can provide some much needed enlightenment. To make this visible we can use the lean-management technique of [Value Stream Mapping](https://en.wikipedia.org/wiki/Value_stream_mapping) to discover which parts of an organisation are on the critical path to delivering something useful and understand the impediments to flow.
 
 Imagine that enterprise IT is a very leaky water pump, but the people responsible for it aren't able to see the actual pump itself (i.e how the parts of the system interact). These folks don't see all the water that is gushing out onto the floor and going down the drain; they only see the poor performance - the disappointing trickle of output from the system - together with a bill of materials and costs for the parts.
 
