@@ -53,7 +53,7 @@ Imagine that enterprise IT is a very leaky water pump, but the people responsibl
 
 If you can’t see the whole **system** and its problems, you'll likely try to optimise by making changes to what is visible to you. For example, you might assume that the way to achieve cost efficiency is to pay less for the parts, since you have no visibility of the leaks.
 
-Once you understand the way in which value flows through your system you can begin to see where your money is really going. Usually this isn’t overspending on the parts of the system, but the shocking amount of waste we simply aren’t aware of. For example, when we looked at the software development value stream in one of our enterprise customers we found poor internal feedback loops meant that **40-50% of their capacity was being used for rework**. In other words, **half their payroll was literally being spent on creating and fixing defects**. They actually had a quality problem, not a spending problem.
+Once you understand the way in which value flows through your system you can begin to see where your money is really going. Usually this isn’t overspending on the parts of the system, but the shocking amount of waste we simply aren’t aware of. For example, when we looked at the software development value stream in one of our enterprise customers we found poor internal feedback loops meant that **40-50% of their capacity was being used for rework**. In other words, **half their payroll was being spent on creating and fixing defects**. They actually had a quality problem, not a spending problem.
 
 ## Communicating the direction of travel
 
