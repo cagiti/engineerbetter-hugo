@@ -57,9 +57,13 @@ Once you understand the way in which value flows through your system you can beg
 
 ## Communicating the direction of travel
 
-Studying the system gives us appreciation of *flow* and visibility of where waste occurs in our system. One of the most common sources of waste is excessive planning and analysis. Usually a series of decisions and commitments become dependent on this plan, but it later ends up being irrelevant, as the world changes around us. How might we change the way we define our objectives, to cope with change and reduce this waste?
+Studying the system gives us appreciation of *flow* and visibility of where waste occurs in our system. One of the most common sources of waste is excessive planning and analysis. Usually a series of decisions and commitments become dependent on this plan, but it later ends up being irrelevant, as the world changes around us.
 
-We often talk about defining **outcomes instead of outputs** when describing agility in senior leadership, but how is this done? Often folks have a shopping list of things to be done, but the intent behind them is poorly communicated. We’ve found that [Impact Mapping](https://www.impactmapping.org/) is a fast way to reverse engineer deliverables and solution ideas into business goals. This visual technique allows everyone in the room to quickly validate their deliverable ideas within the context of actual goals.
+How might we change the way we define our objectives, to cope with change and reduce this waste?
+
+We often talk about defining **outcomes instead of outputs** when describing agility in senior leadership, but how is this done? Often folks have a shopping list of things to be done, but the intent behind them is poorly communicated.
+
+We’ve found that [Impact Mapping](https://www.impactmapping.org/) is a fast way to reverse engineer deliverables and solution ideas into business goals. This visual technique allows everyone in the room to quickly validate their deliverable ideas within the context of actual goals.
 
 <img src="/img/blog/escaping-iron-triangle/impact-map.png" class="fit image">
 
