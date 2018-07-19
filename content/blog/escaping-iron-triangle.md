@@ -71,10 +71,12 @@ We’ve found that [Impact Mapping](https://www.impactmapping.org/) is a fast wa
 
 If we can identify what business outcomes are *worth*, not just what they *cost*, we know how the value of these things is leaking away over time. This allows us to quickly make prioritisation and tradeoff decisions. The tool for quantifying business value is called [Cost of Delay](https://www.cloudfoundry.org/blog/learning-cost-delay-cloud-foundry-boston-summit/). Like many Lean and Agile concepts, Cost of Delay helps facilitate a better quality of conversation. When we're forced to surface all our assumptions about *why* something is valuable, it allows everyone to examine these assumptions.
 
-When you're expressing your ideas as measurable business outcomes, rather than specific deliverables, you enable the system to cope with uncertainty and iterate towards the solutions that will move the needle on these outcomes. Attaching metrics to goals allows teams to be measured in a far more meaningful way than whether they have delivered a particular set of features on time. When we communicate our intent behind an epic or story as a *hypothesis* to be tested we frame our roadmap as a runway of questions to be answered within a time window, instead of "scope" to be delivered by a deadline.
+When you're expressing your ideas as measurable business outcomes, rather than specific deliverables, you enable the system to cope with uncertainty and iterate towards the solutions that will move the needle on these outcomes. Attaching metrics to goals allows teams to be measured in a far more meaningful way than whether they have delivered a particular set of features on time.
+
+When we communicate our intent behind an epic or story as a *hypothesis* to be tested we frame our roadmap as a runway of questions to be answered within a time window, instead of "scope" to be delivered by a deadline.
 
 ## Compatibility between management and development teams
 
 All of these techniques contribute to a shift in thinking that alleviates the friction that commonly occurs between management and agile development teams. We’ve always aimed to help software teams **work on the most important things in the simplest possible way**, but by working with senior leaders in the above ways we can raise levels of mutual empathy and understanding.
 
-If we reshape the internal commitments that are made and ultimately improve flow. No more broken promises about arbitrary scope that hasn’t been delivered on time - just sustainable, continuous delivery of the most valuable ideas, straight to end customers.
+If we change the internal commitments that are made then we ultimately improve flow. No more broken promises about arbitrary scope that hasn’t been delivered on time - just sustainable, continuous delivery of the most valuable ideas, straight to end customers.
