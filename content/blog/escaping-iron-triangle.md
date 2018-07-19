@@ -17,7 +17,13 @@ Through use of [Value Stream Mapping](https://en.wikipedia.org/wiki/Value_stream
 
 ## A familiar story
 
-If you’ve worked in any organisation where the number of employees is measured in thousands you've probably experienced some common behavioural patterns and frustrations. Firstly it seems impossible to reach a decision; nobody can seem to agree on what the "right answer" is. Next, folks get upset because the plan keeps changing as new information is discovered, which has an impact on the mesh of internal commitments that got made based on the plan. Then when you look at progress during delivery of the plan, it’s obvious that everyone is really busy but it takes *so long* to get anything done.
+If you’ve worked in any organisation where the number of employees is measured in thousands you've probably experienced some common behavioural patterns and frustrations.
+
+Firstly it seems impossible to reach a decision; nobody can seem to agree on what the "right answer" is.
+
+Next, folks get upset because the plan keeps changing as new information is discovered, which has an impact on the mesh of internal commitments that got made based on the plan.
+
+Then when you look at progress during delivery of the plan, it’s obvious that everyone is really busy but it takes *so long* to get anything done.
 
 ## We're asking the wrong questions
 
